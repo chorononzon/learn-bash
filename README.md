@@ -84,9 +84,9 @@ If done correctly, you should be able to execute your bash script from any driec
 Note: You don't need to specify the '.sh' bash file extension, just put the name!
 
 
-\-------------------------------------------------------------------------------------------
-#This file was produced by chorononzon@protonmail.ch in association with The CODA™ Network.
-\-------------------------------------------------------------------------------------------
+<p>-------------------------------------------------------------------------------------------</p>
+<p>This file was produced by chorononzon@protonmail.ch in association with <strong>The CODA™ Network</strong>.</p>
+<p>-------------------------------------------------------------------------------------------</p>
 
 <p align="right" style="text-align:right;"><em>“A man can be himself only so long as he is alone; and if he does not love solitude, 
  he will not love freedom; for it is only when he is alone that he is really free.”
