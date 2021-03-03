@@ -1,5 +1,5 @@
-<p align="center" style="text-align:center;">CODA™ Learn To Bash Anything
-===</p>
+<p align="center" style="text-align:center;"><pre>CODA™ Learn To Bash Anything
+===</pre></p>
 
 <p align="center" style="text-align:center;">
     <img alt="CODA Logo" src="images/CODAlogo.png" width="500" />
