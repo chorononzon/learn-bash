@@ -1,5 +1,5 @@
 <div align="center"><h1>CODA™ Learn To Bash Anything</h1></div>
-
+<div> </div>
 <p align="center" style="text-align:center;">
     <img alt="CODA Logo" src="images/CODAlogo.png" width="500" />
 </p>
@@ -43,7 +43,7 @@ Requirements:
 
 
 
-<div align="center"><h1>Additional Notes/h1></div>
+<div align="center"><h1>Additional Notes</h1></div>
 ===
 How to set up ubiquitous executables (bash-script -> linux command) for your linux environment
 Last Updated: 03/03/2021
@@ -84,7 +84,7 @@ If done correctly, you should be able to execute your bash script from any driec
 Note: You don't need to specify the '.sh' bash file extension, just put the name!
 
 
-<div align="center"><pre>This file was produced by chorononzon@protonmail.ch in association with <strong>The CODA™ Network</strong>.</pre></div>
+<p align="center"><pre>This file was produced by chorononzon@protonmail.ch in association with <strong>The CODA™ Network</strong>.</pre></p>
 
 <p align="right" style="text-align:right;"><em>“A man can be himself only so long as he is alone; and if he does not love solitude, 
  he will not love freedom; for it is only when he is alone that he is really free.”
