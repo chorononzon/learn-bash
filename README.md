@@ -1,11 +1,11 @@
-<p align="center" style="text-align:center;">CODA™ Learn To Bash Anything</p>
+<p align="center">CODA™ Learn To Bash Anything</p>
 <p align="center" style="text-align:center;">\m/</p>
 <p align="center" style="text-align:center;">
     <img alt="CODA Logo" src="images/CODAlogo.png" width="500" />
 </p>
 
 
-The CODA™ Network presents you with an easy-to-follow series on how to code in bash.
+<strong>The CODA™ Network</strong> presents you with an easy-to-follow series on how to code in bash.
 
 
 Key Features Include:
@@ -84,9 +84,9 @@ If done correctly, you should be able to execute your bash script from any driec
 Note: You don't need to specify the '.sh' bash file extension, just put the name!
 
 
-<p>-------------------------------------------------------------------------------------------</p>
-<p>This file was produced by chorononzon@protonmail.ch in association with <strong>The CODA™ Network</strong>.</p>
-<p>-------------------------------------------------------------------------------------------</p>
+<pre>-------------------------------------------------------------------------------------------
+This file was produced by chorononzon@protonmail.ch in association with <strong>The CODA™ Network</strong>.
+-------------------------------------------------------------------------------------------</pre>
 
 <p align="right" style="text-align:right;"><em>“A man can be himself only so long as he is alone; and if he does not love solitude, 
  he will not love freedom; for it is only when he is alone that he is really free.”
